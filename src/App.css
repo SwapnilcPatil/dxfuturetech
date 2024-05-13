@@ -204,6 +204,9 @@ a{
     border: none;
     padding: 8px 100px;
     border-radius: 4px;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: Ubuntu;
   }
 }
 
